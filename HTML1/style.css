@@ -1,0 +1,14 @@
+html{
+    background-color: rgb(201, 201, 139);
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(145, 145, 145);
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(65, 44, 44);
+}
+a:hover{
+   background-color: brown; 
+}
